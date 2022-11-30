@@ -5,6 +5,21 @@ WS 22 - Klassen und Objekte 2
 
 ### 📝 Aufgabe:
 
+Das Java Projekt hat die Klasse ```EMail``` aus der letzten Stunde  implementiert.
+Programmiert jetzt eine Klasse ```Outbox```:
+
+- Die Klasse soll als Attribut ein ```EMail[] mails``` zur verwaltung gesendeter EMails beinhalten.
+- Über einen Konstruktor soll das leeres ```EMail[] mails``` initialisiert werden
+- Die Größe des ```EMail[]```  soll über einen ```int outboxSize``` als Argument im Konstruktor bestimmbar sein.
+
+-------------------------------
+
+Programmiert eine Methode ```public void addMail(EMail mail)``` in der ```Outbox``` Klasse.
+- Die Methode soll am ersten freien Platz im ```EMail[]``` eine ```EMail mail``` einfügen
+- Wenn das Postfach voll ist soll eine Meldung in der Konsole ausgegeben werden 
+
+
+
 
 
   ### ℹ️ Resourcen:
