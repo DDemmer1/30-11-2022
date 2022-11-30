@@ -9,8 +9,8 @@ Das Java Projekt hat die Klasse ```EMail``` aus der letzten Stunde  implementier
 Programmiert jetzt eine Klasse ```Outbox```:
 
 - Die Klasse soll als Attribut ein ```EMail[] mails``` zur verwaltung gesendeter EMails beinhalten.
-- Über einen Konstruktor soll das ```EMail[] mails``` initialisiert werden
-- Die Größe des ```EMail[]```  soll über einen ```int outboxSize``` als Argument im Konstruktor bestimmbar sein.
+- Über einen  ```Outbox``` Konstruktor soll das ```EMail[] mails``` initialisiert werden
+- Die Größe des ```EMail[]```  soll über einen ```int outboxSize``` als Argument im  ```Outbox``` Konstruktor bestimmbar sein.
 
 -------------------------------
 
