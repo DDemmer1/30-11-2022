@@ -13,7 +13,6 @@ public class EMail {
 		this.text = "";
 	}
 
-	
-	
+		
 
 }
